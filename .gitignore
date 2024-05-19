@@ -10,6 +10,7 @@ media
 *.bak 
 
 #images
+.img
 img/
 
 # If you are using PyCharm # 
